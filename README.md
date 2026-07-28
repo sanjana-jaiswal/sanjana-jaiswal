@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Sanjana Jaiswal 👋
 
-<!--
-**sanjana-jaiswal/sanjana-jaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GenAI & Full-Stack Engineer, building agentic AI systems and web applications.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 I'm currently working on: a **multi-agent orchestrator**
+- 🧠 I specialize in: Agentic AI, RAG Systems, Generative AI
+- 🛠️ Languages & Web: Python, TypeScript, Django, ReactJS, Node.js, REST APIs
+- 🗄️ Databases & Vector Stores: PostgreSQL, MySQL, MongoDB, Prisma, Pinecone, Milvus
+- ⚙️ Automation: n8n, API Integration, Custom Workflows
+- ☁️ Cloud & DevOps: AWS (EC2, ECS, Amplify), Cloudflare, Docker, Jenkins CI/CD
+- 📫 How to reach me: sanjanajaiswalbst@gmail.com
+- 🌐 Portfolio: [portfolio-phi-henna-lbwle5t9l2.vercel.app](https://portfolio-phi-henna-lbwle5t9l2.vercel.app/)
+- 💼 LinkedIn: [sanjana-jaiswal](https://www.linkedin.com/in/sanjana-jaiswal-423208273)
