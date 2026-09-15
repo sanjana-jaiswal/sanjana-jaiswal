@@ -9,5 +9,5 @@ GenAI & Full-Stack Engineer, building agentic AI systems and web applications.
 - ⚙️ Automation: n8n, API Integration, Custom Workflows
 - ☁️ Cloud & DevOps: AWS (EC2, ECS, Amplify), Cloudflare, Docker, Jenkins CI/CD
 - 📫 How to reach me: sanjanajaiswalbst@gmail.com
-- 🌐 Portfolio: [portfolio-phi-henna-lbwle5t9l2.vercel.app](https://portfolio-sanjana-jaiswal.vercel.app/)
+- 🌐 Portfolio: [portfolio-sanjana-jaiswal.vercel.app/](https://portfolio-sanjana-jaiswal.vercel.app/)
 - 💼 LinkedIn: [sanjana-jaiswal](https://www.linkedin.com/in/sanjana-jaiswal-423208273)
